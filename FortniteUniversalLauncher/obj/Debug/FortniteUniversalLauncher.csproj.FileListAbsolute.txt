@@ -1,0 +1,10 @@
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\bin\Debug\FortniteUniversalLauncher.exe.config
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\bin\Debug\FortniteUniversalLauncher.exe
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\bin\Debug\FortniteUniversalLauncher.pdb
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\obj\Debug\FortniteUniversalLauncher.csproj.AssemblyReference.cache
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\obj\Debug\FortniteUniversalLauncher.Form1.resources
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\obj\Debug\FortniteUniversalLauncher.Properties.Resources.resources
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\obj\Debug\FortniteUniversalLauncher.csproj.GenerateResource.cache
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\obj\Debug\FortniteUniversalLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\obj\Debug\FortniteUniversalLauncher.exe
+C:\Users\Gamotronic\source\repos\FortniteUniversalLauncher\obj\Debug\FortniteUniversalLauncher.pdb
